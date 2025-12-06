@@ -7,7 +7,7 @@ I enjoy building intelligent systems, scalable applications, and impactful digit
 Always open to collaboration — let’s build something amazing! 🚀  
 
 📧 **Email:** nivethitha507@gmail.com  
-📍 **Location:** Tamil Nadu, India  
+📍 **Location:** Coimbatore,Tamil Nadu, India  
 
 ---
 
@@ -54,8 +54,3 @@ Communication, Team Collaboration
 
 ---
 
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivethitha870&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethitha870&layout=compact&theme=tokyonight" height="150"/>
-</p> 
